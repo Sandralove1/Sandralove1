@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandralove1
 - 👀 I’m interested in ... traveling
-- 🌱 I’m currently learning ... gow to code by coding
+- 🌱 I’m currently learning ... how to code by coding
 - 💞️ I’m looking to collaborate on ... many different programing projects
 - 📫 How to reach me ... on linkdin
 - 😄 Pronouns: ... she/her
